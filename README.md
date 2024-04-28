@@ -31,7 +31,7 @@ To run the backend, follow these steps:
    ```
 4. Start the Flask development server by running the following command in your terminal:
    ```
-   python search_engine/app.py
+   python app.py
    ```
 
 The backend server should now be running at `http://localhost:5000`.
