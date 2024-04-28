@@ -10,7 +10,9 @@ Run the flask server (See backend), and find the Search engine at http://localho
 
 Type your search query into the search box to get results.
 
-Click on the
+Click on the photo/video name to go the source for the media.
+
+Clicking the title will reset the search.
 
 ## Backend
 
@@ -18,7 +20,7 @@ The backend of this application is built using Python and Flask. It handles the 
 
 To run the backend, follow these steps:
 
-1. Install Python on your machine if you haven't already.
+1. Install Python on your machine. (Using Python 3.12.3 for this project)
 2. Install the required dependencies by running the following command in your terminal:
    ```
    pip install -r requirements.txt
